@@ -210,7 +210,11 @@ bot.on("message", function (message) {
 
         case "griffin":
             message.channel.send("He has been to disneyland 25 times.");
-          
+            break;
+			
+			
+		case "mackenzie":
+            message.channel.send("She is so talented");
             break;
 
 
@@ -221,14 +225,10 @@ bot.on("message", function (message) {
                 .setURL("https://www.ptk.org/")
                 .setColor(0x00008B)
                 .setFooter("Thank you")
-
-
             message.channel.send(embed);
             break;
 
-        case "mackenzie":
-            message.channel.send("She is so talented");
-            break;
+ 
 
 
         case "main":
