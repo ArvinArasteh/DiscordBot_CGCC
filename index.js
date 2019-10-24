@@ -17,7 +17,7 @@ var joke = [                                                                    
     "How did the telephone propose to its girlfriend? He gave her a ring.",
     "How do you prevent a Summer cold? Catch it in the Winter!",
     "Corny jokes are a-maize-ing.",
-    "What is 5q+5q? (10q) YOU'RE WELCOME.",
+    "Oh! Hello There LOL",
     "What baby corn asks mama corn? Where is popcorn?.",
     "I bought some shoes from a drug dealer. I don't know what he laced them with, but I've been tripping all day.",
     "What do you call a guy with a rubber toe ? Roberto",
